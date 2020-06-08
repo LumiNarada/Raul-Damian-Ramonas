@@ -1,3 +1,7 @@
 Azul 2
+  Naranja
 Verde 1
 Naranja 1
+  Rojo
+Rojo 1
+Rojo 2
